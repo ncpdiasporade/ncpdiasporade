@@ -3,11 +3,12 @@
 # NCP Diaspora Alliance Germany
 
 ### A platform for organized Bangladeshi diaspora engagement, advocacy, and collaboration
-
+[Website](https://ncpdagermany.de)•
 [Facebook](https://fb.com/ncpdagermany) •
 [Instagram](https://instagram.com/ncpda.germany) •
 [YouTube](https://www.youtube.com/@NCPDA_Germany) •
-[Email](mailto:ncpdiasporade@gmail.com)
+[Email](mailto:ncpdiasporade@gmail.com) •
+[WhatsApp](+49 15678 304651)
 
 </div>
 
@@ -44,11 +45,14 @@ To become an effective platform that helps organize the Bangladeshi diaspora aro
 ---
 
 ## Connect With Us
-
+- **Website:** [www.ncpdagermany.de](https://ncpdagermany.de)
 - **Facebook:** [fb.com/ncpdagermany](https://fb.com/ncpdagermany)
 - **Instagram:** [instagram.com/ncpda_germany](https://instagram.com/ncpda.germany)
 - **YouTube:** [youtube.com/@NCPDAGermany](https://www.youtube.com/@NCPDA.Germany)
 - **Email:** [ncpdiasporade@gmail.com](mailto:ncpdiasporade@gmail.com)
+<a aria-label="Chat on WhatsApp" href="https://wa.me/4915678304651">
+  <img alt="Chat on WhatsApp" src="./assets/WhatsAppButtonGreenLarge.svg" width="200" />
+</a>
 
 ---
 
