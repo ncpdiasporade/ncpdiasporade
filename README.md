@@ -6,7 +6,7 @@
 [Website](https://ncpdagermany.de) •
 [Facebook](https://fb.com/ncpdagermany) •
 [Instagram](https://instagram.com/ncpda.germany) •
-[YouTube](https://www.youtube.com/@NCPDA_Germany) •
+[YouTube](https://www.youtube.com/@NCPDA.Germany) •
 [Email](mailto:ncpdiasporade@gmail.com) •
 <a aria-label="Chat on WhatsApp" href="https://wa.me/4915678304651">
   <img alt="Chat on WhatsApp" src="https://raw.githubusercontent.com/WhatsApp/WhatsApp-Brand-Guidelines/main/WhatsAppButtonGreenLarge.svg" />
@@ -49,8 +49,8 @@ To become an effective platform that helps organize the Bangladeshi diaspora aro
 ## Connect With Us
 - **Website:** [www.ncpdagermany.de](https://ncpdagermany.de)
 - **Facebook:** [fb.com/ncpdagermany](https://fb.com/ncpdagermany)
-- **Instagram:** [instagram.com/ncpda_germany](https://instagram.com/ncpda.germany)
-- **YouTube:** [youtube.com/@NCPDAGermany](https://www.youtube.com/@NCPDA.Germany)
+- **Instagram:** [instagram.com/ncpda.germany](https://instagram.com/ncpda.germany)
+- **YouTube:** [youtube.com/@NCPDA.Germany](https://www.youtube.com/@NCPDA.Germany)
 - **Email:** [ncpdiasporade@gmail.com](mailto:ncpdiasporade@gmail.com)
 <a aria-label="Chat on WhatsApp" href="https://wa.me/4915678304651">
   <img alt="Chat on WhatsApp" src="https://raw.githubusercontent.com/WhatsApp/WhatsApp-Brand-Guidelines/main/WhatsAppButtonGreenLarge.svg" />
