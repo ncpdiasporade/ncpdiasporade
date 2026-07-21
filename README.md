@@ -5,8 +5,8 @@
 ### A platform for organized Bangladeshi diaspora engagement, advocacy, and collaboration
 
 [Facebook](https://fb.com/ncpdagermany) •
-[Instagram](https://instagram.com/ncpda_germany) •
-[YouTube](https://www.youtube.com/@NCPDAGermany) •
+[Instagram](https://instagram.com/ncpda.germany) •
+[YouTube](https://www.youtube.com/@NCPDA_Germany) •
 [Email](mailto:ncpdiasporade@gmail.com)
 
 </div>
@@ -46,8 +46,8 @@ To become an effective platform that helps organize the Bangladeshi diaspora aro
 ## Connect With Us
 
 - **Facebook:** [fb.com/ncpdagermany](https://fb.com/ncpdagermany)
-- **Instagram:** [instagram.com/ncpda_germany](https://instagram.com/ncpda_germany)
-- **YouTube:** [youtube.com/@NCPDAGermany](https://www.youtube.com/@NCPDAGermany)
+- **Instagram:** [instagram.com/ncpda_germany](https://instagram.com/ncpda.germany)
+- **YouTube:** [youtube.com/@NCPDAGermany](https://www.youtube.com/@NCPDA.Germany)
 - **Email:** [ncpdiasporade@gmail.com](mailto:ncpdiasporade@gmail.com)
 
 ---
