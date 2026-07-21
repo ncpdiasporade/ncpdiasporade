@@ -3,7 +3,7 @@
 # NCP Diaspora Alliance Germany
 
 ### A platform for organized Bangladeshi diaspora engagement, advocacy, and collaboration
-[Website](https://ncpdagermany.de)•
+[Website](https://ncpdagermany.de) •
 [Facebook](https://fb.com/ncpdagermany) •
 [Instagram](https://instagram.com/ncpda.germany) •
 [YouTube](https://www.youtube.com/@NCPDA_Germany) •
