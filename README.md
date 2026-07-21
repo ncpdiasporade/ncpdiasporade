@@ -8,7 +8,9 @@
 [Instagram](https://instagram.com/ncpda.germany) •
 [YouTube](https://www.youtube.com/@NCPDA_Germany) •
 [Email](mailto:ncpdiasporade@gmail.com) •
-[WhatsApp](+49 15678 304651)
+<a aria-label="Chat on WhatsApp" href="https://wa.me/4915678304651">
+  <img alt="Chat on WhatsApp" src="https://raw.githubusercontent.com/WhatsApp/WhatsApp-Brand-Guidelines/main/WhatsAppButtonGreenLarge.svg" />
+</a>
 
 </div>
 
@@ -51,7 +53,7 @@ To become an effective platform that helps organize the Bangladeshi diaspora aro
 - **YouTube:** [youtube.com/@NCPDAGermany](https://www.youtube.com/@NCPDA.Germany)
 - **Email:** [ncpdiasporade@gmail.com](mailto:ncpdiasporade@gmail.com)
 <a aria-label="Chat on WhatsApp" href="https://wa.me/4915678304651">
-  <img alt="Chat on WhatsApp" src="./assets/WhatsAppButtonGreenLarge.svg" width="200" />
+  <img alt="Chat on WhatsApp" src="https://raw.githubusercontent.com/WhatsApp/WhatsApp-Brand-Guidelines/main/WhatsAppButtonGreenLarge.svg" />
 </a>
 
 ---
